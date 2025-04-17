@@ -16,21 +16,22 @@ SISA is faster, especially for larger datasets, and ensures privacy by efficient
 
 # Dataset
 The demo uses the Kaggle Cat-Dog Classification dataset. The folder structure is:
-cat_dog_images/
-├── train/
-│   ├── cat/
-│   │   ├── cat_1.jpg
-│   │   ├── ... (50 images)
-│   ├── dog/
-│   │   ├── dog_1.jpg
-│   │   ├── ... (50 images)
-├── test/
-│   ├── cat/
-│   │   ├── cat_1.jpg
-│   │   ├── ... (10 images)
-│   ├── dog/
-│   │   ├── dog_1.jpg
-│   │   ├── ... (10 images)
+
+    cat_dog_images/
+    ├── train/
+    │   ├── cat/
+    │   │   ├── cat_1.jpg
+    │   │   ├── ... (50 images)
+    │   ├── dog/
+    │   │   ├── dog_1.jpg
+    │   │   ├── ... (50 images)
+    ├── test/
+    │   ├── cat/
+    │   │   ├── cat_1.jpg
+    │   │   ├── ... (10 images)
+    │   ├── dog/
+    │   │   ├── dog_1.jpg
+    │   │   ├── ... (10 images)
 
 Note: The Notebook uses cat/dog folder names, but ensure your dataset matches (some datasets use cats/dogs).
 Prerequisites

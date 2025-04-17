@@ -97,7 +97,7 @@ GPU/CPU: The code auto-detects GPU availability for faster feature extraction.
 
 # Resources
 
-    [1] [An Introduction to Machine Unlearning.](https://arxiv.org/pdf/2209.00939)
+    [1] An Introduction to Machine Unlearning.(https://arxiv.org/pdf/2209.00939)
 
     [2] Machine Unlearning: Solutions and Challenges(https://arxiv.org/pdf/2308.07061)
 

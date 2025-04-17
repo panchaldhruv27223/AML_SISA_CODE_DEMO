@@ -98,13 +98,19 @@ GPU/CPU: The code auto-detects GPU availability for faster feature extraction.
 # Resources
 
     [1] [An Introduction to Machine Unlearning.](https://arxiv.org/pdf/2209.00939)
+
     [2] Machine Unlearning: Solutions and Challenges(https://arxiv.org/pdf/2308.07061)
+
     [3] A Survey of Machine Unlearning(https://arxiv.org/pdf/2209.02299)
+
     [4] Machine Unlearning in 2024 - by  Ken Ziyu Liu(https://ai.stanford.edu/~kzliu/blog/unlearning)
+
     [5] ARCANE: An Efficient Architecture for Exact Machine Unlearning(https://www.ijcai.org/proceedings/2022/0556.pdf)
 
 Dataset: [Kaggle Cat-Dog Classification.](https://www.kaggle.com/datasets/dhruvpanchal1/cat-dog-classification)
+
 Video: https://youtu.be/0W-w3Fh4VfQ
+
 Code: SISA_CODE_DEMO.ipynb in this repository.
 
 Contributing
